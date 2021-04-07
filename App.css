@@ -1,0 +1,16 @@
+.App {
+  text-align: center;
+}
+.filter-wrapper{
+  width: 200px;
+  margin: 0 auto;
+  margin-bottom: 20px;
+}
+.filter-height{
+  padding: 15px;
+  text-align: center;
+  width: 100%;
+}
+.card{
+  margin-bottom: 30px;
+}
